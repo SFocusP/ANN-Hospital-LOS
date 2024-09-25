@@ -1,1 +1,1 @@
-# Deep-Bayesian-Survival-Model-for-Predicting-Hospital-Length-of-Stay
+# Deep Bayesian Survival Model for Predicting Hospital Length of Stay
